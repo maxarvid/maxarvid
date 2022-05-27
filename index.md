@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "maxarvid"
+title: "welcome"
 ---
 
 ## This is my landing page
