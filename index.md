@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "welcome"
+title: "index"
 ---
 
 ## This is my landing page
