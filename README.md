@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c762321-24a5-4586-b80c-fff3ff3ae765/deploy-status)](https://app.netlify.com/sites/sharp-banach-1501c7/deploys)
