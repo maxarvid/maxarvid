@@ -9,7 +9,9 @@
   </head>
   <body>
     {% include navigation.html %}
-    <img src={{ page.image }} alt="">
+    {% if page.image %}
+    <img src={{ page.image }} alt={{ page.image.text }}>
+    {% endif %}
     {{ content }}
   </body>
 </html>
