@@ -1,6 +1,7 @@
 ---
 layout: posts
 image: 'https://images.maxarvid.com/2022-05-27-max_128.jpg'
+image_alt: 'A picture of me on a bicycle'
 ---
 
 # About Images
