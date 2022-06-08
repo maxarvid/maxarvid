@@ -37,4 +37,4 @@ I went ahead and threw in an `img` tag with a dynamically rendered source as fol
   </body>
 ```
 {% endraw %}
-So now I can display images that I host myself. Next stop the styling has to be at least... looked at. And I've been messing around with [tailwind](https://tailwindcss.com/), so I think that will be the road to take for this little page.
+So now I can display images that I host myself (sort of). Next stop the styling has to be at least... looked at. And I've been messing around with [tailwind](https://tailwindcss.com/), so I think that will be the road to take for this little page.
