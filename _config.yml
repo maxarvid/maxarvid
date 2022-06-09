@@ -1,3 +1,5 @@
 url: "https://maxarvid.com/"
 baseurl: ""
 title: "maxarvid"
+plugins:
+  - jekyll-postcss
