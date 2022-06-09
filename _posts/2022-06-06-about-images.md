@@ -1,10 +1,9 @@
 ---
 layout: posts
-image: 'https://images.maxarvid.com/2022-05-27-max_128.jpg'
-image_alt: 'A picture of me on a bicycle'
 ---
 
 # About Images
+![A picture of me on a bicycle](https://images.maxarvid.com/2022-05-27-max_128.jpg)
 
 Even though the site still looks like crap, I'm inclined to prioritize putting up some pictures before tackling any styling. Inspired by what [MacWright wrote](https://macwright.com/2019/02/28/photos.html) about not using social media for his photos back in 2019, I decided to go down the same route for hosting images via AWS S3 and Cloudfront. Following his setup, as well as the steps in [this](https://learnetto.com/blog/cloudfront-s3) Learnetto tutorial allows me to sidestep the unpleasantries of using Netlify's LFS equivalent and will hopefully make it easy to migrate one day in order to explore other offerings.
 
